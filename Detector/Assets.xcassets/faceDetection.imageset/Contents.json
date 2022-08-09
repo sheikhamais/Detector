@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "face-detection.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
